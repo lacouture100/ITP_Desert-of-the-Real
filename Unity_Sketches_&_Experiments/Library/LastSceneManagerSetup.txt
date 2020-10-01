@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/S_HW_004_VR_Drawing_Show.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
